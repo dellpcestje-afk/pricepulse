@@ -1,20 +1,5 @@
 alerts:
-  - symbol: AAPL
+  - symbol: AVGO
     kind: stock
     rule: above
-    value: 250.00
-
-  - symbol: TSLA
-    kind: stock
-    rule: below
-    value: 200.00
-
-  - symbol: bitcoin
-    kind: crypto
-    rule: above
-    value: 100000
-
-  - symbol: ethereum
-    kind: crypto
-    rule: below
-    value: 3000
+    value: 344.00
