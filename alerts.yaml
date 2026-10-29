@@ -1,5 +1,5 @@
 alerts:
   - symbol: AVGO
     kind: stock
-    rule: above
-    value: 344.00
+    rule: below
+    value: 343.00
